@@ -1,0 +1,11 @@
+%nprocshared=36
+%mem=16GB
+#p HSEH1PBE/Def2QZVPP opt(MaxCycles=100) freq scf(xqc, MaxConventional=200)
+
+...
+
+1 1
+  S    0.6263528   -0.3773602    0.0819067
+  H    0.3465456   -0.2410345    1.4543869
+  H    0.9060394   -0.5146599   -1.2905010
+  H    0.7987912    1.0155110   -0.0217940
