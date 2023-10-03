@@ -1,11 +1,13 @@
-# Bayesian optimization with unknown feasibility constraints for experiment planning and chemical design
+# Anubis
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-This repository contains code to reproduce the experiments reported in "Bayesian optimization with unknown feasibility constraints for experiment planning and chemical design."
+This repository contains code to reproduce the experiments reported in "Anubis: Bayesian optimization with unknown feasibility constraints for scientific experimentation".
 
-The constrained Bayesian optimization experiments reported in this work use the `atlas` Python library. You can visit the `atlas` [GitHub repo](), [documentation](), and [tutorial notebook]() for more information.
+The constrained Bayesian optimization experiments reported in this work use the `atlas` Python library. You can visit the `atlas` [GitHub repo](), [documentation](https://matter-atlas.readthedocs.io/en/latest/), and [tutorial notebook]() for more information.
+
+![alt text](https://github.com/aspuru-guzik-group/atlas-unknown-constraints/blob/main/static/anubis_banner.png)
 
 
 ## Installation
@@ -38,9 +40,6 @@ The directories in this repo each contain code to reproduce specific experiments
 * `analysis/atlas_ei_ucb_compare/`: comparison of EI and UCB acquisiton functions on constrained analytical benchmark functions.
 
 * `analysis/atlas_filter_compare/`: comparison of mininum-filtered and original FIA and FCA feasibility-aware acquisition functions on analytical surfaces.
-
-
-
 
 
 
