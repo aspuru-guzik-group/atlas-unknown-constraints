@@ -51,7 +51,7 @@ Distributed under the [MIT](https://choosealicense.com/licenses/mit/) license. S
 ## Contact
 
 Academic collaborations and extensions/improvements to the code by the community
-are encouraged. Please reach out to [Riley](riley.hickman@mail.utoronto.ca) by email if you have questions.
+are encouraged. Please reach out to [Riley](riley.hickman@mail.utoronto.ca) or [Gary](gary.tom@mail.mcgill.ca) by email if you have questions.
 
 
 ## Citation
@@ -60,7 +60,7 @@ If you utilize the benchmarks experiments in this repository to advance your res
 
 ```
 @misc{hickman_unknown_2023,
-     author = {Hickman, Riley and Aldeghi, Matteo and Aspuru-Guzik, Al{\'a}n},
+     author = {Hickman, Riley and Tom, Gary and Zou, Yunheng and Aldeghi, Matteo and Aspuru-Guzik, Al{\'a}n},
 	doi = {},
 	language = {en},
 	month = ,
@@ -75,14 +75,13 @@ If you utilize the benchmarks experiments in this repository to advance your res
 
 ```
 @misc{hickman_atlas_2023,
-    author = {Hickman, Riley and Sim, Malcolm and Pablo-Garc{\'\i}a, Sergio and Woolhouse, Ivan and Hao, Han and Bao, Zeqing and Bannigan, Pauric and Allen, Christine and Aldeghi, Matteo and Aspuru-Guzik, Al{\'a}n},
-	doi = {10.26434/chemrxiv-2023-8nrxx},
-	language = {en},
-	month = sep,
-	publisher = {ChemRxiv},
-	shorttitle = {Atlas},
-	title = {Atlas: {A} {Brain} for {Self}-driving {Laboratories}},
-	urldate = {2023-09-05},
-	year = {2023},
+	title={Atlas: a brain for self-driving laboratories},
+        author={Hickman, Riley J and Sim, Malcolm and Pablo-Garc{\'\i}a, Sergio and Tom, Gary and Woolhouse, Ivan and Hao, Han and Bao, Zeqing and Bannigan, Pauric and Allen, Christine and Aldeghi, Matteo and Aspuru-Guzik, Al{\'a}n}},
+        journal={Digital Discovery},
+        volume={4},
+        number={4},
+        pages={1006--1029},
+        year={2025},
+        publisher={Royal Society of Chemistry}
 }
 ```
